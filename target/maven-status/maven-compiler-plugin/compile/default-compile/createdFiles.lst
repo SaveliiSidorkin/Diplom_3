@@ -1,0 +1,12 @@
+fragment/FragmentMainPage.class
+api/UserGenerator.class
+api/UserAuth.class
+fragment/FragmentResetPasswordPage.class
+page/BasePage.class
+page/Pages.class
+api/BaseApiClient.class
+api/UserClient.class
+fragment/FragmentLoginPage.class
+fragment/FragmentRegistrationPage.class
+api/User.class
+fragment/FragmentProfilePage.class
